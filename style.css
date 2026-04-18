@@ -1418,6 +1418,25 @@ body {
 }
 
 
+.container {
+  width: 800px;
+}
+
+
+@media (max-width: 600px) {
+  .container {
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+
+
+
 
 
 
