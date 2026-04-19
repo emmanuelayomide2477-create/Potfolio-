@@ -148,13 +148,12 @@ body {
 }
 
 .stage-nav a {
-  font-size: 0.75rem;
-  font-weight: bold;
-  letter-spacing: 0.2px;
+  font-family: san-serif;
+  font-weight: 500;
   text-transform: uppercase;
   color: white;
   text-decoration: none;
-  padding: 0.2rem;
+  padding: 6px;
   position: relative;
   transition: all 0.3s ease;
 }
@@ -998,7 +997,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
-  width: 20rem;
+  width: 36rem;
 }
 
 .contact-card {
