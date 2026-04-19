@@ -150,11 +150,11 @@ body {
 .stage-nav a {
   font-size: 0.75rem;
   font-weight: 500;
-  letter-spacing: 0.9px;
+  letter-spacing: 0.6px;
   text-transform: uppercase;
   color: white;
   text-decoration: none;
-  padding: 0.6rem;
+  padding: 0.4rem;
   position: relative;
   transition: all 0.3s ease;
 }
