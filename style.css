@@ -153,7 +153,7 @@ body {
   
   color: white;
   text-decoration: none;
-  padding: 9px;
+  padding: 10px;
   position: relative;
   transition: all 0.3s ease;
   font-family: san-serif;
@@ -292,7 +292,7 @@ body {
 
 .scroll-indicator {
   position: absolute;
-  bottom: -22rem;
+  bottom: -29rem;
   display: flex;
   flex-direction: column;
   gap: 6px;
