@@ -138,7 +138,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 0.5rem;
+
   padding: 2px;
   background: var(--black-soft);
   border-bottom: 1px solid rgba(212, 175, 55, 0.15);
