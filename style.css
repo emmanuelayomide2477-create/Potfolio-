@@ -292,7 +292,7 @@ body {
 
 .scroll-indicator {
   position: absolute;
-  bottom: -36rem;
+  bottom: -26rem;
   display: flex;
   flex-direction: column;
   gap: 6px;
