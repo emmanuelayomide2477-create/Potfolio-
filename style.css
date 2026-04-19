@@ -139,7 +139,7 @@ body {
   justify-content: center;
   align-items: center;
 
-  padding: 2px;
+  padding: 1.6px;
   background: var(--black-soft);
   border-bottom: 1px solid rgba(212, 175, 55, 0.15);
   position: sticky;
@@ -149,12 +149,12 @@ body {
 
 .stage-nav a {
   font-size: 0.75rem;
-  font-weight: 500;
-  letter-spacing: 0.6px;
+  font-weight: bold;
+  letter-spacing: 0.2px;
   text-transform: uppercase;
   color: white;
   text-decoration: none;
-  padding: 0.4rem;
+  padding: 0.2rem;
   position: relative;
   transition: all 0.3s ease;
 }
@@ -998,7 +998,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
-  width: 16rem;
+  width: 20rem;
 }
 
 .contact-card {
