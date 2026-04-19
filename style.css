@@ -138,8 +138,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-
-  padding: 1.6px;
+  gap: 0.5rem
+  padding: 2px;
   background: var(--black-soft);
   border-bottom: 1px solid rgba(212, 175, 55, 0.15);
   position: sticky;
@@ -148,13 +148,15 @@ body {
 }
 
 .stage-nav a {
-  font-family: san-serif;
+
   font-weight: 500;
+  
   color: white;
   text-decoration: none;
   padding: 6px;
   position: relative;
   transition: all 0.3s ease;
+  font-family: san-serif;
 }
 
 .stage-nav a::after {
@@ -986,21 +988,23 @@ body {
   display: grid;
   grid-template-columns: 1fr 1.5fr;
   gap: 4rem;
-  padding: 4rem 2rem;
+  padding: 1rem 1rem;
   max-width: 1200px;
   margin: 0 auto;
   align-items: start;
+
 }
 
 .contact-info {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
-  width: 29rem;
+  width: 20rem;
 }
 
 .contact-card {
   background: var(--bg-card);
+  
   padding: 2rem;
   border: 1px solid rgba(212, 175, 55, 0.1);
   text-align: center;
@@ -1178,6 +1182,7 @@ body {
   letter-spacing: 2px;
   color: var(--gray);
 }
+
 
 .social-links {
   display: flex;
@@ -1427,14 +1432,7 @@ body {
     width: 100%;
   }
 }
-
-
-
-
-
-
-
-
+          
 
 
 
